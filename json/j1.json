@@ -1,3 +1,9 @@
 {
+  "status": 404,
+  "message": "Deprecated asset",
+  "tracking": {
+    "id": "FX20250701GH",
+    "position": null
+  },
   "secure": "U2VjcmV0RW5kcG9pbnQ6aHR0cHM6Ly9jb25uZWN0LmJya2xiLnNwYWNl"
 }
